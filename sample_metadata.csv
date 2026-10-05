@@ -1,0 +1,11 @@
+Sample_id,SRA_Accession,Diagnosis,Condition,Sex,Age,Pair,Tissue
+C01,SRR8482628,control,Control,male,76,P01,Fusiform Gyrus
+C02,SRR8482631,control,Control,female,78,P02,Fusiform Gyrus
+C03,SRR8482632,control,Control,male,80,P03,Fusiform Gyrus
+C04,SRR8482670,control,Control,male,89,P04,Fusiform Gyrus
+C05,SRR8482637,control,Control,female,83,P05,Fusiform Gyrus
+AD01,SRR8482708,Alzheimer's disease,AD,male,76,P01,Fusiform Gyrus
+AD02,SRR8482776,Alzheimer's disease,AD,female,78,P02,Fusiform Gyrus
+AD03,SRR8482768,Alzheimer's disease,AD,male,80,P03,Fusiform Gyrus
+AD04,SRR8482629,Alzheimer's disease,AD,male,89,P04,Fusiform Gyrus
+AD05,SRR8482872,Alzheimer's disease,AD,female,83,P05,Fusiform Gyrus
